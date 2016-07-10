@@ -10,3 +10,7 @@
 - [ ] offline first
 - [ ] render js
 - [ ] skeleton
+
+### WIP Skeleton
+
+- Add HTML for skeleton file

@@ -6,6 +6,7 @@
 
 ## First commit to OFFLINE branch, pushing to BitBucket
 
+- [/] Caching assets
 - [ ] offline first
 - [ ] render js
 - [ ] skeleton

@@ -9,7 +9,7 @@
 - [/] Caching assets
 - [ ] offline first
 - [ ] render js
-- [ ] skeleton
+- [/] skeleton
 
 ### WIP Skeleton
 

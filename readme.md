@@ -14,3 +14,4 @@
 ### WIP Skeleton
 
 - Add HTML for skeleton file
+- Serve Skeleton instead of root from SW

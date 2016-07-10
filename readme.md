@@ -15,3 +15,5 @@
 
 - [x] Add HTML for skeleton file
 - [x] Serve Skeleton instead of root from SW
+
+## Now making commits to test GitHub contributions

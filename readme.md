@@ -5,3 +5,7 @@
 ## another commit to master, pushing to origin
 
 ## First commit to OFFLINE branch, pushing to BitBucket
+
+- [ ] offline first
+- [ ] render js
+- [ ] skeleton

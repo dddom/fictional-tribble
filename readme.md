@@ -6,12 +6,12 @@
 
 ## First commit to OFFLINE branch, pushing to BitBucket
 
-- [/] Caching assets
+- [x] Caching assets
 - [ ] offline first
 - [ ] render js
-- [/] skeleton
+- [x] skeleton
 
 ### WIP Skeleton
 
-- Add HTML for skeleton file
-- Serve Skeleton instead of root from SW
+- [x] Add HTML for skeleton file
+- [x] Serve Skeleton instead of root from SW

@@ -15,3 +15,9 @@
 
 - [x] Add HTML for skeleton file
 - [x] Serve Skeleton instead of root from SW
+
+## Now making commits to test GitHub contributions
+
+This change was made on August 10, 2016. Hopefully after pushing tomorrow to the origin, and after merging to master, contributions will be counted.
+
+This change was made on August 14, 2016. It will be merged in together with the above change back into origin.
